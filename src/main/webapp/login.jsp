@@ -5,7 +5,7 @@
 </header>
 <body class=" align-items-center bg-body-tertiary">
 <main class="d-flex align-items-center form-signin w-100 m-auto" style="justify-content: center;">
-    <form id="form" method="post" action="dashboard.jsp">
+    <form id="form" method="post" action="loginValidate.jsp">
         <%--        <img class="mb-4" src="logo.jpg" alt="" width="72" height="57">--%>
         <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
 
